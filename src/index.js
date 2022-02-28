@@ -216,8 +216,8 @@ async function run() {
     "ok, let's go (Please let the browser work until you see another message like this)"
   );
 
-  // var statusMsg = await fillAllHours();
-  // alert(statusMsg);
+  var statusMsg = await fillAllHours();
+  alert(statusMsg);
 }
 
 run();

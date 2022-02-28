@@ -9,3 +9,7 @@ Make sure to use the script when logged into meckano, and are in https://app.mec
 ## Via Devtools
  - Copy index.js's contents
  - paste the script in the console and run
+
+
+## Known Issues
+- Doesn't handle holidays or sick days well, it'll fill anything that's not a weekend
