@@ -5,9 +5,9 @@ Make sure to use the script when logged into meckano, and are in https://app.mec
 ## Save as a Bookmark (Recommended)
  - Create a new Bookmark
  - In the name fill whatever fits you
- - In URL type "javascript: " and add index.js' contents
+ - In URL type "javascript: " and add main.js' contents
 ## Via Devtools
- - Copy index.js's contents
+ - Copy main.js's contents
  - paste the script in the console and run
 
 
